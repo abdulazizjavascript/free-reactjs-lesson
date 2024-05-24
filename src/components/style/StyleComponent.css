@@ -1,0 +1,13 @@
+#style {
+  background-color: black;
+}
+
+.style__title {
+  font-size: 32px;
+  color: red;
+}
+
+.style__content {
+  line-height: 20px;
+  color: yellow;
+}
